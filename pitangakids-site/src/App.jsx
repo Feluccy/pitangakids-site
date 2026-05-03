@@ -459,6 +459,11 @@ function Footer({ t, setPage, navIds }) {
           }}>{t.nav[i]}</button>
         ))}
       </div>
+<div style={{ display: "flex", gap: 20, justifyContent: "center", flexWrap: "wrap", marginBottom: 12 }}>
+        <a href="mailto:pitangakids.app@outlook.com" style={{ color: "rgba(255,255,255,0.6)", fontSize: 12, textDecoration: "none" }}>📧 pitangakids.app@outlook.com</a>
+        <a href="https://instagram.com/pitangakids.app" target="_blank" style={{ color: "rgba(255,255,255,0.6)", fontSize: 12, textDecoration: "none" }}>📸 @pitangakids.app</a>
+        <a href="https://tiktok.com/@pitangakids.app" target="_blank" style={{ color: "rgba(255,255,255,0.6)", fontSize: 12, textDecoration: "none" }}>🎵 @pitangakids.app</a>
+      </div>
       <p style={{ color: "rgba(255,255,255,0.4)", fontSize: 12 }}>
         © 2026 Pitanga Kids · pitangakids.com · {t.footer}
       </p>

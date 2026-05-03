@@ -18,7 +18,7 @@ const C = {
 
 const LINKS = {
   app: "https://play.google.com/store/apps/details?id=com.pitangakids",
-  amazon: "https://www.amazon.co.uk/s?k=pitanga+kids",
+  amazon: "https://www.amazon.co.uk/Nico-Stella-Tesouro-Escondido-surpresa/dp/B0GZ8J1XVB/ref=sr_1_1?crid=2XO64AWEE7BWL&dib=eyJ2IjoiMSJ9.7CsJJxBBFWRq_i8qRLJZYw.z7jbKLj5HQw80J-8gwd5531C90G9qBfOjQi2YAVSJNQ&dib_tag=se&keywords=nico+e+stella&qid=1777835222&sprefix=nico+e+stella%2Caps%2C133&sr=8-1",
   bookvault: "https://www.bookvault.app",
 };
 

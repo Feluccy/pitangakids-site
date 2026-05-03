@@ -37,7 +37,7 @@ const LINKS = {
 2. Vai a vercel.com → Import Project
 3. Escolhe o repositório
 4. Vercel detecta o Vite automaticamente e publica!
-5. Adiciona o domínio pitangakids.com nas definições
+5. Adiciona o domínio pitangakids.com nas definições ACIMA.
 
 ## 🌍 DNS no Namecheap
 Após publicar no Vercel, vai ao Namecheap → Advanced DNS e adiciona os registos que o Vercel te indicar.

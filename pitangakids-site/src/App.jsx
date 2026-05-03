@@ -54,7 +54,7 @@ const LANG = {
     planos: [
       { nome: "Semente", emoji: "🌱", preco: "€9.99/mes", cor: C.mint, corT: "#2A7A6E",
         features: ["Atividades simples e divertidas", "Acesso a conteúdo básico", "Ideal para começar", "Sem cartão de crédito"] },
-      { nome: "Jardim", emoji: "🍅", preco: "€4,99/mês", cor: C.rosa, corT: "#8B2252",
+      { nome: "Jardim", emoji: "🍅", preco: "€14,99/mês", cor: C.rosa, corT: "#8B2252",
         features: ["Tudo do Semente +", "IA escolhe a metodologia", "Mais variedade de atividades", "Suporte prioritário"] },
       { nome: "Pitanga", emoji: "🍊", preco: "€19,99/mês", cor: C.lilas, corT: "#5C3080", popular: true,
         features: ["Tudo do Jardim +", "Você escolhe a metodologia", "Montessori, Waldorf, Reggio Emilia e mais", "Conteúdo pedagógico exclusivo"] },
